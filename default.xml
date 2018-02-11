@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SPEEVERS_LIGHT_DATA>
+<STAMP user="someone~~~~~~~~~~~~~" date="DD/MM/YY" time="HH:MM:SS"></STAMP>
+<SETTINGS switch_time="300" program_looping="1" programs_north="07" programs_south="07" start_fst="0" place_holder="################################################################################################################################################################################################################################################################################################################################################################################################################"></SETTINGS>
+<PROGRAMS_NORTH>
+<PROGRAM serialN="01" name="color1~~~~~~~~~~~~~~" elements="0001" speed="050%">
+<PROG_DATA>
+ff0000@3000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="02" name="color2~~~~~~~~~~~~~~" elements="0001" speed="100%">
+<PROG_DATA>
+c000ff@2000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="03" name="color3~~~~~~~~~~~~~~" elements="0001" speed="100%">
+<PROG_DATA>
+0048ff@1000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="04" name="color4~~~~~~~~~~~~~~" elements="0001" speed="100%">
+<PROG_DATA>
+00c6ff@1000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="05" name="color5~~~~~~~~~~~~~~" elements="0001" speed="100%">
+<PROG_DATA>
+06ff00@1000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="06" name="magic rainbow~~~~~~~" elements="0006" speed="100%">
+<PROG_DATA>
+ff0000@1500;
+ffff00@1500;
+ffffff@1500;
+00ff00@1500;
+00ffff@1500;
+0000ff@1500;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialN="07" name="dancing on the sun~~" elements="0012" speed="200%">
+<PROG_DATA>
+ff3000@0010;
+ff3000@0008;
+000000@0020;
+ffffff@0006;
+ffa200@0010;
+ffa200@0008;
+000000@0020;
+ffffff@0006;
+fff000@0010;
+fff000@0008;
+000000@0020;
+ffffff@0006;
+</PROG_DATA>
+</PROGRAM>
+</PROGRAMS_NORTH>
+<PROGRAMS_SOUTH>
+<PROGRAM serialS="01" name="color1~~~~~~~~~~~~~~" elements="0001" speed="050%">
+<PROG_DATA>
+ff00ba@3000;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="02" name="color2~~~~~~~~~~~~~~" elements="0001" speed="100%">
+<PROG_DATA>
+4800ff@0800;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="03" name="color3~~~~~~~~~~~~~~" elements="0001" speed="300%">
+<PROG_DATA>
+00c6ff@0800;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="04" name="color4~~~~~~~~~~~~~~" elements="0001" speed="300%">
+<PROG_DATA>
+00ffa2@0800;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="05" name="color5~~~~~~~~~~~~~~" elements="0001" speed="300%">
+<PROG_DATA>
+deff00@0800;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="06" name="magic rainbow~~~~~~~" elements="0006" speed="100%">
+<PROG_DATA>
+ff0000@1500;
+ffff00@1500;
+ffffff@1500;
+00ff00@1500;
+00ffff@1500;
+0000ff@1500;
+</PROG_DATA>
+</PROGRAM>
+<PROGRAM serialS="07" name="dancing on the sun~~" elements="0012" speed="200%">
+<PROG_DATA>
+ff3000@0010;
+ff3000@0008;
+000000@0020;
+ffffff@0006;
+ffa200@0010;
+ffa200@0008;
+000000@0020;
+ffffff@0006;
+fff000@0010;
+fff000@0008;
+000000@0020;
+ffffff@0006;
+</PROG_DATA>
+</PROGRAM>
+</PROGRAMS_SOUTH>
+</SPEEVERS_LIGHT_DATA>
